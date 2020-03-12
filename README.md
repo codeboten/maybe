@@ -1,6 +1,4 @@
-## MAYBE
-
-
+![cdc poster](https://github.com/codeboten/maybe/images/cdc-poster.png "CDC Poster")
 
 Here is advice from the World Health Organization for basic protective measures:
 
